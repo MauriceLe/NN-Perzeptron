@@ -48,6 +48,3 @@ Kein spezielles Setup erforderlich. Einfach das Skript ausführen:
 ```sh
 python script.py
 ```
-
-## Lizenz
-Dieses Projekt steht unter der MIT-Lizenz.
